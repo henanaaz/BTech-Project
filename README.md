@@ -1,2 +1,1 @@
-# nya
-naya repo mera
+This Project Served as my Academic Minor Project
