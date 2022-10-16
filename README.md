@@ -1,1 +1,1 @@
-This Project Served as my Academic Minor Project
+This Repository holds my undergraduate level projects
